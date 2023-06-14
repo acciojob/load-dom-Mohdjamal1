@@ -1,4 +1,5 @@
 //your JS code here. If required.
-document.onload(function() {
+fu();
+function fu() {
 	document.querySelector('body').innerText = "DOM load success";
-});
+};
